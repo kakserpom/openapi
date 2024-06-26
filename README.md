@@ -22,6 +22,8 @@ To edit and validate the config, you can use an online editor such as [Swagger](
 
 * [Typescript](https://github.com/manticoresoftware/manticoresearch-typescript) - it also has a testing suite with incomplete coverage
 
+* [Rust](https://crates.io/crates/manticore-openapi) 
+
 
 ## Contributing
 
